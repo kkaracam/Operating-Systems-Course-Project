@@ -1,0 +1,3 @@
+assemblyInput1.asm 7000
+assemblyInput2.asm 3000
+assemblyInput3.asm 5000
